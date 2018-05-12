@@ -1,0 +1,29 @@
+_repo: Species-Plantarum-Sections-IV-V_27049
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Linné, Carl von
+    alias: Linnaeus, Carolus
+    birthdate: 1707
+    deathdate: 1778
+    gutenberg_agent_id: '9516'
+    url: http://www.gutenberg.org/2009/agents/9516
+    wikipedia: http://en.wikipedia.org/wiki/Carolus_Linnaeus
+description: ''
+gutenberg_issued: '2008-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27049'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plants -- Early works to 1800'
+- !lcsh 'Plants -- Classification -- Early works to 1800'
+- !lcc 'QK'
+title: Species Plantarum, Sections IV-V
+url: http://www.gutenberg.org/ebooks/27049
